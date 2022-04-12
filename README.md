@@ -35,6 +35,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Links
 
 [Link to Github Repository](https://github.com/KeisaP/Social-Network-API)
+
 [Link to Video](https://drive.google.com/file/d/1FinRX55qM3JAskjh_3VnhHeQNReuGGZH/view?usp=sharing)
 
 <br>
