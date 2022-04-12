@@ -36,12 +36,14 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 [Link to Github Repository](https://github.com/KeisaP/Social-Network-API)
 
+[Link to Video](https://drive.google.com/file/d/1FinRX55qM3JAskjh_3VnhHeQNReuGGZH/view?usp=sharing)
+
 <br>
 
 ## Working Code
-![Get Users and Thoughts](../assets/Get_Users_and_Thoughts.mp4)
-![Get a Single User and a Single Thought](../assets/Get_Single_User_and_Single_Thought.mp4)
-![Post Put Delete](../assets/Post_Put_Delete.mp4)
+![Get Users and Thoughts](https://github.com/KeisaP/Social-Network-API/blob/main/assets/Get_Users_and_Thoughts.mp4)
+![Get a Single User and a Single Thought](https://github.com/KeisaP/Social-Network-API/blob/main/assets/Get_Single_User_and_Single_Thought.mp4)
+![Post Put Delete](https://github.com/KeisaP/Social-Network-API/blob/main/assets/Post_Put_Delete.mp4)
 
 
 
