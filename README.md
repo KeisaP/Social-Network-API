@@ -38,8 +38,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 <br>
 
-## Mockup
-![Webpage]()
+## Working Code
+![Get Users and Thoughts](../assets/Get_Users_and_Thoughts.mp4)
+![Get a Single User and a Single Thought](../assets/Get_Single_User_and_Single_Thought.mp4)
+![Post Put Delete](../assets/Post_Put_Delete.mp4)
 
 
 

@@ -1,20 +1,26 @@
 {
-  "name": "mern-server",
+  "name": "social-network-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "watch": "nodemon"
+    "seed": "node utils/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeisaP/Social-Network-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^6.0.13"
+  "bugs": {
+    "url": "https://github.com/KeisaP/Social-Network-API/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+  "homepage": "https://github.com/KeisaP/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
   }
 }
